@@ -6,7 +6,7 @@ ShortIt is a web application crafted to simplify the process of URL shortening. 
 
 This project is built with Django and uses Pipenv for managing dependencies. Follow these steps to get it running on your local machine:
 
-1. Clone the repository to your local machine using `git clone <repository-url>`.
+1. Clone the repository to your local machine using `git clone https://github.com/Pokymon/shortit.git`.
 
 2. Navigate to the project directory with `cd ShortIt`.
 
