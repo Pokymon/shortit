@@ -36,4 +36,4 @@ ShortIt is distributed under the MIT License. See `LICENSE` file for more inform
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out at business@shortit.com.
+If you have any questions or suggestions, feel free to reach out at business@pokymons.com.
