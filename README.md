@@ -4,15 +4,27 @@ ShortIt is a web application crafted to simplify the process of URL shortening. 
 
 ## Installation
 
-This project is built with Django. Follow these steps to get it running on your local machine:
+This project is built with Django and uses Pipenv for managing dependencies. Follow these steps to get it running on your local machine:
 
 1. Clone the repository to your local machine using `git clone <repository-url>`.
+
 2. Navigate to the project directory with `cd ShortIt`.
+
 3. Copy `settings.py.example` to `settings.py` and update the environment variables to match your setup.
-4. Run `pip install -r requirements.txt` to install the project dependencies.
-5. Run `python manage.py migrate` to set up the database.
-6. Run `python manage.py createsuperuser` to create an admin user for the Django admin interface.
-7. Run `python manage.py runserver` to start the local development server.
+
+4. Install Pipenv if you haven't already with `pip install pipenv`.
+
+5. Install project dependencies with Pipenv by running `pipenv install`.
+
+6. Enter the Pipenv shell using `pipenv shell`.
+
+7. Run database migrations with `python manage.py migrate`.
+
+8. Create an admin user for the Django admin interface using `python manage.py createsuperuser`.
+
+9. Start the local development server with `python manage.py runserver`.
+
+Now you can access the ShortIt web application locally.
 
 ## Contributing
 
