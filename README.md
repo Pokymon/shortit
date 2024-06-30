@@ -8,7 +8,7 @@ This project is built with Django and uses Pipenv for managing dependencies. Fol
 
 1. Clone the repository to your local machine using `git clone https://github.com/Pokymon/shortit.git`.
 
-2. Navigate to the project directory with `cd ShortIt`.
+2. Navigate to the project directory with `cd shortit`.
 
 3. Copy `settings.py.example` to `settings.py` and update the environment variables to match your setup.
 
